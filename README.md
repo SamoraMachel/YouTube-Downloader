@@ -2,7 +2,7 @@
 A python based program created with Tkinter for UI dispay used to download streams from YouTube in form of Video and Audio
 
 ## <u>Getting Started</u>
-Basically there is no complicated installations or programs you need to install. <br/>
+Basically there is no complicated installations. <br/>
 The 
 ``` requirements.txt ``` should include all the libraries need in order to get the program running. They can be installed using 
 
